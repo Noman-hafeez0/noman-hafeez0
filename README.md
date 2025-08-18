@@ -5,19 +5,19 @@
 
 ## 🔥 About Me
 - 🎓 Pursuing a degree in **Software Engineering**  
-- 🌱 Currently learning **Python, Django, and JavaScript**  
+- 🌱 Currently learning **Python, Django, and Tailwind**  
 - 💡 Exploring areas like **Databases, Algorithms, and Software Design**  
 - 🎯 Goal: To grow as a **well-rounded Software Engineer** with real-world projects  
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/your-link) | [Portfolio](https://your-portfolio.com)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/noman-hafeez-128974370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKOiLuxNBRfiFC4agGlLFYw%3D%3D) 
 
 ---
 
 ## ⚡ Tech & Tools
-- **Languages**: Python 🐍 | JavaScript ✨ | C++ | Java | HTML | CSS  
+- **Languages**: Python 🐍 | ✨ C++ | Java | HTML | CSS  
 - **Frameworks & Libraries**: Django | Bootstrap | Tailwind CSS  
-- **Databases**: MySQL | PostgreSQL | SQLite  
-- **Tools**: Git | GitHub | VS Code | Figma | Postman  
-- **Concepts**: OOP | Data Structures & Algorithms | Software Engineering Principles  
+- **Databases**: SQLite  
+- **Tools**: Git | GitHub | VS Code 
+- **Concepts**: OOP | Software Engineering Principles  
 
 ---
 
