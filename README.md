@@ -29,8 +29,8 @@
 ---
 
 ## 🌟 Featured Projects
-- ✅ [To-Do List App (Django)](https://github.com/noman-hafeez0/todo-app)  
-- 🌍 [Wild Life Responsive Website](https://github.com/noman-hafeez0/Wild-Life-web)  
+- ✅ [To-Do List App (Django)](https://github.com/Noman-hafeez0/Django-To-Do-List-.git)  
+- 🌍 [Wild Life Responsive Website](https://github.com/Noman-hafeez0/Wild-Life-web.git)  
 - 📚 [DSA Practice Repository (coming soon!)]  
 - 🛠 [Future Project: Expense Tracker with Django]  
 
@@ -44,5 +44,5 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/b)]()
+[![LinkedIn](https://www.linkedin.com/in/noman-hafeez-128974370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKOiLuxNBRfiFC4agGlLFYw%3D%3D)  
+
