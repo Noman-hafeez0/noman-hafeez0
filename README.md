@@ -44,7 +44,5 @@
 ---
 
 ## 📫 Let's Connect
-## 📫 Let's Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noman-hafeez-128974370)
 
