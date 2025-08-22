@@ -22,7 +22,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=noman-hafeez0&show_icons=true&theme=tokyonight)
+![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=noman-hafeez0&show_icons=true&theme=tokyonight
+)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noman-hafeez0&layout=compact&theme=tokyonight
 )
